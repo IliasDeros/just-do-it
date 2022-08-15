@@ -1,0 +1,3 @@
+.hello-card {
+  @apply p-16 rounded-lg shadow-lg;
+}
