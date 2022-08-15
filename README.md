@@ -5,7 +5,7 @@ Boilerplate code for a [React](https://reactjs.org/) + [Tailwind](https://tailwi
 - [x] [Parcel] dev server
 - [x] [Continuous Delivery](./.github/workflows/deploy.yml) 
 
-[![Demo](https://i.ibb.co/7kyVSZX/image.png)](https://rttemplate.vercel.app/)
+![Demo](https://i.imgur.com/0qLRCfI.png)
 
 ## Getting Started
 
