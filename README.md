@@ -1,11 +1,6 @@
-# React + Tailwind + Typescript
+# Just (to-) do it!
 
-Boilerplate code for a [React](https://reactjs.org/) + [Tailwind](https://tailwindcss.com/) + [Typescript](https://www.typescriptlang.org/) Front-End application. Additional features include:
-
-- [x] [Parcel] dev server
-- [x] [Continuous Delivery](./.github/workflows/deploy.yml) 
-
-![Demo](https://i.imgur.com/0qLRCfI.png)
+![Demo](https://i.imgur.com/wsNdsF8.png)
 
 ## Getting Started
 
