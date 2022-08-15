@@ -1,5 +1,7 @@
-import { HelloWorld } from "HelloWorld/components"
+import { TodoList } from "TodoList/components/TodoList";
 
 export const App = () => (
-  <HelloWorld />
+  <div className="w-1/3 mx-auto p-8">
+    <TodoList />
+  </div>
 )

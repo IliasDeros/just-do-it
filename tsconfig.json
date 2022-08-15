@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "paths": {
       "core/*": ["core/*"],
-      "HelloWorld/*": ["HelloWorld/*"],
+      "TodoList/*": ["TodoList/*"],
     }
   }
 }

@@ -5,6 +5,7 @@
     "start": "parcel src/index.html"
   },
   "dependencies": {
+    "airtable": "^0.11.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -18,6 +19,6 @@
   },
   "alias": {
     "core": "./src/core",
-    "HelloWorld": "./src/HelloWorld"
+    "TodoList": "./src/TodoList"
   }
 }
